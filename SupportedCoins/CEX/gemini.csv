@@ -1,0 +1,105 @@
+pair,name,base
+AAVE/USD,Aave,AAVE
+ALI/USD,Artificial Liquid Intelligence,ALI
+AMP/USD,Amp,AMP
+ANKR/USD,Ankr,ANKR
+APE/USD,ApeCoin,APE
+API3/USD,API3,API3
+ATOM/USD,Cosmos,ATOM
+AVAX/USD,Avalanche,AVAX
+AXS/USD,Axie Infinity,AXS
+BAT/ETH,Basic Attention Token,BAT
+BAT/BTC,Basic Attention Token,BAT
+BAT/USD,Basic Attention Token,BAT
+BCH/ETH,Bitcoin Cash,BCH
+BCH/BTC,Bitcoin Cash,BCH
+BCH/USD,Bitcoin Cash,BCH
+BTC/USD,Bitcoin,BTC
+BTC/EUR,Bitcoin,BTC
+BTC/GUSD,Bitcoin,BTC
+BTC/USDT,Bitcoin,BTC
+BTC/GBP,Bitcoin,BTC
+BTC/DAI,Bitcoin,BTC
+BTC/SGD,Bitcoin,BTC
+CHZ/USD,Chiliz,CHZ
+COMP/USD,Compound,COMP
+CRV/USD,Curve DAO Token,CRV
+CTX/USD,Cryptex Finance,CTX
+CUBE/USD,Somnium Space Cubes,CUBE
+DAI/USD,Dai,DAI
+DOGE/BTC,Dogecoin,DOGE
+DOGE/USD,Dogecoin,DOGE
+DOGE/ETH,Dogecoin,DOGE
+DOT/USD,Polkadot,DOT
+ELON/USD,Dogelon Mars,ELON
+ENS/USD,Ethereum Name Service,ENS
+ERN/USD,Ethernity,ERN
+ETH/DAI,Ethereum,ETH
+ETH/EUR,Ethereum,ETH
+ETH/GBP,Ethereum,ETH
+ETH/USDT,Ethereum,ETH
+ETH/GUSD,Ethereum,ETH
+ETH/BTC,Ethereum,ETH
+ETH/SGD,Ethereum,ETH
+ETH/USD,Ethereum,ETH
+FET/USD,Fetch.ai,FET
+FIL/USD,Filecoin,FIL
+FTM/USD,Fantom,FTM
+GAL/USD,Galxe,GAL
+GALA/USD,Gala,GALA
+GMT/USD,GMT,GMT
+GRT/USD,The Graph,GRT
+GUSD/SGD,Gemini Dollar,GUSD
+GUSD/GBP,Gemini Dollar,GUSD
+HNT/USD,Helium,HNT
+IMX/USD,Immutable,IMX
+INJ/USD,Injective,INJ
+IOTX/USD,IoTeX,IOTX
+JAM/USD,Geojam Token,JAM
+LDO/USD,Lido DAO,LDO
+LINK/BTC,Chainlink,LINK
+LINK/USD,Chainlink,LINK
+LINK/ETH,Chainlink,LINK
+LPT/USD,Livepeer,LPT
+LRC/USD,Loopring,LRC
+LTC/BCH,Litecoin,LTC
+LTC/ETH,Litecoin,LTC
+LTC/BTC,Litecoin,LTC
+LTC/USD,Litecoin,LTC
+LUNA/USD,Terra Classic,LUNA
+MANA/USD,Decentraland,MANA
+MASK/USD,Mask Network,MASK
+MATIC/USD,Polygon,MATIC
+MKR/USD,Maker,MKR
+OXT/USD,Orchid,OXT
+OXT/ETH,Orchid,OXT
+OXT/BTC,Orchid,OXT
+PAXG/USD,PAX Gold,PAXG
+PEPE/USD,Pepe,PEPE
+QNT/USD,Quant,QNT
+QRDO/USD,Qredo,QRDO
+RARE/USD,SuperRare,RARE
+REN/USD,Ren,REN
+RNDR/USD,Render,RNDR
+SAMO/USD,Samoyedcoin,SAMO
+SAND/USD,The Sandbox,SAND
+SHIB/USD,Shiba Inu,SHIB
+SKL/USD,SKALE,SKL
+SNX/USD,Synthetix,SNX
+SOL/USD,Solana,SOL
+STORJ/USD,Storj,STORJ
+SUSHI/USD,SushiSwap,SUSHI
+UMA/USD,UMA,UMA
+UNI/USD,Uniswap,UNI
+USDC/USD,USDC,USDC
+USDT/USD,Tether USDt,USDT
+XRP/USD,XRP,XRP
+XTZ/USD,Tezos,XTZ
+YFI/USD,yearn.finance,YFI
+ZBC/USD,Zebec,ZBC
+ZEC/USD,Zcash,ZEC
+ZEC/BTC,Zcash,ZEC
+ZEC/ETH,Zcash,ZEC
+ZEC/LTC,Zcash,ZEC
+ZEC/BCH,Zcash,ZEC
+ZRX/USD,0x Protocol,ZRX

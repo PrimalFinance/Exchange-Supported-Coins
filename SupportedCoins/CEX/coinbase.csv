@@ -1,0 +1,395 @@
+pair,name,base
+00/USD,00 Token,00
+1INCH/USD,1inch Network,1INCH
+1INCH/BTC,1inch Network,1INCH
+1INCH/GBP,1inch Network,1INCH
+1INCH/EUR,1inch Network,1INCH
+AAVE/GBP,Aave,AAVE
+AAVE/EUR,Aave,AAVE
+AAVE/BTC,Aave,AAVE
+AAVE/USD,Aave,AAVE
+ABT/USD,Arcblock,ABT
+ACH/USD,Alchemy Pay,ACH
+ACS/USD,Access Protocol,ACS
+ADA/GBP,Cardano,ADA
+ADA/USDT,Cardano,ADA
+ADA/BTC,Cardano,ADA
+ADA/USD,Cardano,ADA
+ADA/ETH,Cardano,ADA
+ADA/EUR,Cardano,ADA
+AERGO/USD,Aergo,AERGO
+AERO/USD,Aerodrome Finance,AERO
+AGLD/USD,Adventure Gold,AGLD
+AIOZ/USD,AIOZ Network,AIOZ
+ALCX/USD,Alchemix,ALCX
+ALEPH/USD,Aleph.im,ALEPH
+ALGO/BTC,Algorand,ALGO
+ALGO/USD,Algorand,ALGO
+ALGO/EUR,Algorand,ALGO
+ALGO/GBP,Algorand,ALGO
+ALICE/USD,MyNeighborAlice,ALICE
+AMP/USD,Amp,AMP
+ANKR/EUR,Ankr,ANKR
+ANKR/BTC,Ankr,ANKR
+ANKR/USD,Ankr,ANKR
+ANKR/GBP,Ankr,ANKR
+APE/USD,ApeCoin,APE
+APE/USDT,ApeCoin,APE
+APE/EUR,ApeCoin,APE
+API3/USD,API3,API3
+APT/USD,Aptos,APT
+APT/USDT,Aptos,APT
+ARB/USD,Arbitrum,ARB
+ARPA/USD,ARPA,ARPA
+ASM/USD,Assemble Protocol,ASM
+AST/USD,AirSwap,AST
+ATOM/USD,Cosmos,ATOM
+ATOM/BTC,Cosmos,ATOM
+ATOM/USDT,Cosmos,ATOM
+ATOM/GBP,Cosmos,ATOM
+ATOM/EUR,Cosmos,ATOM
+AUCTION/USD,Bounce Token,AUCTION
+AUDIO/USD,Audius,AUDIO
+AURORA/USD,Aurora,AURORA
+AVAX/USD,Avalanche,AVAX
+AVAX/USDT,Avalanche,AVAX
+AVAX/BTC,Avalanche,AVAX
+AVAX/EUR,Avalanche,AVAX
+AVT/USD,Aventus,AVT
+AXL/USD,Axelar,AXL
+AXS/USD,Axie Infinity,AXS
+AXS/USDT,Axie Infinity,AXS
+AXS/BTC,Axie Infinity,AXS
+AXS/EUR,Axie Infinity,AXS
+BADGER/USD,Badger DAO,BADGER
+BAL/USD,Balancer,BAL
+BAL/BTC,Balancer,BAL
+BAND/USD,Band Protocol,BAND
+BAT/USD,Basic Attention Token,BAT
+BAT/BTC,Basic Attention Token,BAT
+BAT/ETH,Basic Attention Token,BAT
+BAT/EUR,Basic Attention Token,BAT
+BCH/GBP,Bitcoin Cash,BCH
+BCH/USD,Bitcoin Cash,BCH
+BCH/BTC,Bitcoin Cash,BCH
+BCH/EUR,Bitcoin Cash,BCH
+BICO/USDT,Biconomy,BICO
+BICO/EUR,Biconomy,BICO
+BICO/USD,Biconomy,BICO
+BIGTIME/USD,Big Time,BIGTIME
+BIT/USD,BitDAO,BIT
+BLUR/USD,Blur,BLUR
+BLZ/USD,Bluzelle,BLZ
+BNT/USD,Bancor,BNT
+BOBA/USD,Boba Network,BOBA
+BONK/USD,Bonk,BONK
+BTC/USD,Bitcoin,BTC
+BTC/USDT,Bitcoin,BTC
+BTC/EUR,Bitcoin,BTC
+BTC/GBP,Bitcoin,BTC
+BTRST/USD,Braintrust,BTRST
+C98/USD,Coin98,C98
+cbETH/USD,Coinbase Wrapped Staked ETH,CBETH
+cbETH/ETH,Coinbase Wrapped Staked ETH,CBETH
+CELR/USD,Celer Network,CELR
+CGLD/USD,Celo,CGLD
+CGLD/GBP,Celo,CGLD
+CGLD/EUR,Celo,CGLD
+CGLD/BTC,Celo,CGLD
+CHZ/USD,Chiliz,CHZ
+CHZ/USDT,Chiliz,CHZ
+CHZ/EUR,Chiliz,CHZ
+CHZ/GBP,Chiliz,CHZ
+CLV/USD,CLV,CLV
+COMP/USD,Compound,COMP
+COMP/BTC,Compound,COMP
+COTI/USD,COTI,COTI
+COVAL/USD,Circuits of Value,COVAL
+CRO/EUR,Cronos,CRO
+CRO/USD,Cronos,CRO
+CRO/USDT,Cronos,CRO
+CRV/EUR,Curve DAO Token,CRV
+CRV/USD,Curve DAO Token,CRV
+CRV/GBP,Curve DAO Token,CRV
+CRV/BTC,Curve DAO Token,CRV
+CTSI/USD,Cartesi,CTSI
+CTX/USD,Cryptex Finance,CTX
+CVC/USD,Civic,CVC
+CVX/USD,Convex Finance,CVX
+DAI/USD,Dai,DAI
+DAR/USD,Mines of Dalarnia,DAR
+DASH/USD,Dash,DASH
+DASH/BTC,Dash,DASH
+DESO/USD,Decentralized Social,DESO
+DEXT/USD,DEXTools,DEXT
+DIA/USD,DIA,DIA
+DIMO/USD,DIMO,DIMO
+DNT/USD,district0x,DNT
+DOGE/USD,Dogecoin,DOGE
+DOGE/BTC,Dogecoin,DOGE
+DOGE/EUR,Dogecoin,DOGE
+DOGE/GBP,Dogecoin,DOGE
+DOGE/USDT,Dogecoin,DOGE
+DOT/BTC,Polkadot,DOT
+DOT/GBP,Polkadot,DOT
+DOT/USD,Polkadot,DOT
+DOT/USDT,Polkadot,DOT
+DOT/EUR,Polkadot,DOT
+DYP/USD,Dypius [Old],DYP
+EGLD/USD,MultiversX,EGLD
+ELA/USD,Elastos,ELA
+ENJ/USDT,Enjin Coin,ENJ
+ENJ/BTC,Enjin Coin,ENJ
+ENJ/USD,Enjin Coin,ENJ
+ENS/USD,Ethereum Name Service,ENS
+ENS/EUR,Ethereum Name Service,ENS
+ENS/USDT,Ethereum Name Service,ENS
+EOS/USD,EOS,EOS
+EOS/BTC,EOS,EOS
+EOS/EUR,EOS,EOS
+ERN/USD,Ethernity,ERN
+ETC/USD,Ethereum Classic,ETC
+ETC/BTC,Ethereum Classic,ETC
+ETC/EUR,Ethereum Classic,ETC
+ETC/GBP,Ethereum Classic,ETC
+ETH/DAI,Ethereum,ETH
+ETH/EUR,Ethereum,ETH
+ETH/USDT,Ethereum,ETH
+ETH/GBP,Ethereum,ETH
+ETH/BTC,Ethereum,ETH
+ETH/USD,Ethereum,ETH
+EUROC/USD,EURC,EUROC
+EUROC/EUR,EURC,EUROC
+FARM/USD,Harvest Finance,FARM
+FET/USD,Fetch.ai,FET
+FET/USDT,Fetch.ai,FET
+FIDA/USD,Bonfida,FIDA
+FIL/EUR,Filecoin,FIL
+FIL/BTC,Filecoin,FIL
+FIL/USD,Filecoin,FIL
+FIL/GBP,Filecoin,FIL
+FIS/USD,StaFi,FIS
+FLOW/USDT,Flow,FLOW
+FLOW/USD,Flow,FLOW
+FLR/USD,Flare,FLR
+FORT/USD,Forta,FORT
+FORTH/USD,Ampleforth Governance Token,FORTH
+FOX/USD,Shapeshift FOX Token,FOX
+FX/USD,Function X,FX
+GAL/USD,Galxe,GAL
+GFI/USD,Goldfinch,GFI
+GHST/USD,Aavegotchi,GHST
+GLM/USD,Golem,GLM
+GMT/USD,GMT,GMT
+GMT/USDT,GMT,GMT
+GNO/USD,Gnosis,GNO
+GODS/USD,Gods Unchained,GODS
+GRT/USD,The Graph,GRT
+GRT/BTC,The Graph,GRT
+GRT/EUR,The Graph,GRT
+GRT/GBP,The Graph,GRT
+GST/USD,Green Satoshi Token (SOL),GST
+GTC/USD,Gitcoin,GTC
+GUSD/USD,Gemini Dollar,GUSD
+GYEN/USD,GYEN,GYEN
+HBAR/USDT,Hedera,HBAR
+HBAR/USD,Hedera,HBAR
+HFT/USD,Hashflow,HFT
+HIGH/USD,Highstreet,HIGH
+HNT/USD,Helium,HNT
+HONEY/USD,Hivemapper,HONEY
+HOPR/USD,HOPR,HOPR
+ICP/USDT,Internet Computer,ICP
+ICP/EUR,Internet Computer,ICP
+ICP/GBP,Internet Computer,ICP
+ICP/BTC,Internet Computer,ICP
+ICP/USD,Internet Computer,ICP
+IDEX/USD,IDEX,IDEX
+ILV/USD,Illuvium,ILV
+IMX/USDT,Immutable,IMX
+IMX/USD,Immutable,IMX
+INDEX/USD,Index Cooperative,INDEX
+INJ/USD,Injective,INJ
+INV/USD,Inverse Finance,INV
+IOTX/USD,IoTeX,IOTX
+JASMY/USDT,JasmyCoin,JASMY
+JASMY/USD,JasmyCoin,JASMY
+JTO/USD,Jito,JTO
+KAVA/USD,Kava,KAVA
+KNC/USD,Kyber Network Crystal v2,KNC
+KRL/USD,Kryll,KRL
+KSM/USD,Kusama,KSM
+LCX/USD,LCX,LCX
+LDO/USD,Lido DAO,LDO
+LINK/ETH,Chainlink,LINK
+LINK/EUR,Chainlink,LINK
+LINK/BTC,Chainlink,LINK
+LINK/USD,Chainlink,LINK
+LINK/USDT,Chainlink,LINK
+LINK/GBP,Chainlink,LINK
+LIT/USD,Litentry,LIT
+LOKA/USD,League of Kingdoms Arena,LOKA
+LPT/USD,Livepeer,LPT
+LQTY/USD,Liquity,LQTY
+LRC/USDT,Loopring,LRC
+LRC/USD,Loopring,LRC
+LRC/BTC,Loopring,LRC
+LSETH/ETH,Liquid Staked ETH,LSETH
+LSETH/USD,Liquid Staked ETH,LSETH
+LTC/BTC,Litecoin,LTC
+LTC/EUR,Litecoin,LTC
+LTC/USD,Litecoin,LTC
+LTC/GBP,Litecoin,LTC
+MAGIC/USD,Treasure,MAGIC
+MANA/BTC,Decentraland,MANA
+MANA/ETH,Decentraland,MANA
+MANA/EUR,Decentraland,MANA
+MANA/USD,Decentraland,MANA
+MASK/EUR,Mask Network,MASK
+MASK/USDT,Mask Network,MASK
+MASK/USD,Mask Network,MASK
+MASK/GBP,Mask Network,MASK
+MATH/USD,MATH,MATH
+MATIC/GBP,Polygon,MATIC
+MATIC/EUR,Polygon,MATIC
+MATIC/BTC,Polygon,MATIC
+MATIC/USD,Polygon,MATIC
+MATIC/USDT,Polygon,MATIC
+MDT/USD,Measurable Data Token,MDT
+MEDIA/USD,Media Network,MEDIA
+METIS/USD,Metis,METIS
+MINA/USDT,Mina,MINA
+MINA/EUR,Mina,MINA
+MINA/USD,Mina,MINA
+MKR/BTC,Maker,MKR
+MKR/USD,Maker,MKR
+MLN/USD,Enzyme,MLN
+MNDE/USD,Marinade,MNDE
+MOBILE/USD,Helium Mobile,MOBILE
+MPL/USD,Maple,MPL
+MSOL/USD,Marinade Staked SOL,MSOL
+MTL/USD,Metal DAO,MTL
+MUSE/USD,Muse,MUSE
+NCT/USD,PolySwarm,NCT
+NEAR/USDT,NEAR Protocol,NEAR
+NEAR/USD,NEAR Protocol,NEAR
+NKN/USD,NKN,NKN
+NMR/USD,Numeraire,NMR
+OCEAN/USD,Ocean Protocol,OCEAN
+OGN/USD,Origin Protocol,OGN
+ONDO/USD,Ondo,ONDO
+OP/USDT,Optimism,OP
+OP/USD,Optimism,OP
+ORCA/USD,Orca,ORCA
+ORN/USD,Orion,ORN
+OSMO/USD,Osmosis,OSMO
+OXT/USD,Orchid,OXT
+PAX/USD,Pax Dollar,PAX
+PERP/USD,Perpetual Protocol,PERP
+PLU/USD,Pluton,PLU
+PNG/USD,Pangolin,PNG
+POLS/USD,Polkastarter,POLS
+POND/USD,Marlin,POND
+POWR/USD,Powerledger,POWR
+PRIME/USD,Echelon Prime,PRIME
+PRO/USD,Propy,PRO
+PRQ/USD,PARSIQ,PRQ
+PUNDIX/USD,Pundi X (New),PUNDIX
+PYR/USD,Vulcan Forged (PYR),PYR
+PYUSD/USD,PayPal USD,PYUSD
+QI/USD,BENQI,QI
+QNT/USD,Quant,QNT
+QNT/USDT,Quant,QNT
+RAD/USD,Radworks,RAD
+RAI/USD,Rai Reflex Index,RAI
+RARE/USD,SuperRare,RARE
+RARI/USD,Rarible,RARI
+RBN/USD,Ribbon Finance,RBN
+REQ/USD,Request,REQ
+RLC/USD,iExec RLC,RLC
+RNDR/USDT,Render,RNDR
+RNDR/EUR,Render,RNDR
+RNDR/USD,Render,RNDR
+ROSE/USD,Oasis Network,ROSE
+ROSE/USDT,Oasis Network,ROSE
+RPL/USD,Rocket Pool,RPL
+SAND/USDT,The Sandbox,SAND
+SAND/USD,The Sandbox,SAND
+SEAM/USD,Seamless,SEAM
+SEI/USD,Sei,SEI
+SHIB/EUR,Shiba Inu,SHIB
+SHIB/USDT,Shiba Inu,SHIB
+SHIB/GBP,Shiba Inu,SHIB
+SHIB/USD,Shiba Inu,SHIB
+SHPING/USD,SHPING,SHPING
+SKL/USD,SKALE,SKL
+SNX/EUR,Synthetix,SNX
+SNX/BTC,Synthetix,SNX
+SNX/USD,Synthetix,SNX
+SNX/GBP,Synthetix,SNX
+SOL/USD,Solana,SOL
+SOL/ETH,Solana,SOL
+SOL/GBP,Solana,SOL
+SOL/USDT,Solana,SOL
+SOL/BTC,Solana,SOL
+SOL/EUR,Solana,SOL
+SPA/USD,Sperax,SPA
+SPELL/USD,Spell Token,SPELL
+STORJ/USD,Storj,STORJ
+STRK/USD,Starknet,STRK
+STX/USD,Stacks,STX
+STX/USDT,Stacks,STX
+SUI/USD,Sui,SUI
+SUKU/USD,Suku,SUKU
+SUPER/USD,SuperVerse,SUPER
+SUSHI/USD,SushiSwap,SUSHI
+SWFTC/USD,SwftCoin,SWFTC
+SYN/USD,Synapse,SYN
+T/USD,Threshold,T
+TIA/USD,Celestia,TIA
+TIME/USD,Chrono.tech,TIME
+TRAC/USD,OriginTrail,TRAC
+TRB/USD,Tellor,TRB
+TRU/USD,TrueFi,TRU
+TVK/USD,Vanar Chain,TVK
+UMA/USD,UMA,UMA
+UNFI/USD,Unifi Protocol DAO,UNFI
+UNI/USD,Uniswap,UNI
+UNI/EUR,Uniswap,UNI
+UNI/BTC,Uniswap,UNI
+UNI/GBP,Uniswap,UNI
+USDC/EUR,USDC,USDC
+USDC/GBP,USDC,USDC
+USDT/GBP,Tether USDt,USDT
+USDT/USDC,Tether USDt,USDT
+USDT/EUR,Tether USDt,USDT
+USDT/USD,Tether USDt,USDT
+VARA/USD,Vara Network,VARA
+VELO/USD,Velodrome Finance,VELO
+VET/USD,VeChain,VET
+VOXEL/USD,Voxies,VOXEL
+VTHO/USD,VeThor Token,VTHO
+WAMPL/USD,Wrapped Ampleforth,WAMPL
+WBTC/USD,Wrapped Bitcoin,WBTC
+WBTC/BTC,Wrapped Bitcoin,WBTC
+WCFG/USD,Wrapped Centrifuge,WCFG
+XCN/USD,Onyxcoin,XCN
+XLM/USDT,Stellar,XLM
+XLM/EUR,Stellar,XLM
+XLM/USD,Stellar,XLM
+XLM/BTC,Stellar,XLM
+XRP/USDT,XRP,XRP
+XRP/EUR,XRP,XRP
+XRP/USD,XRP,XRP
+XTZ/BTC,Tezos,XTZ
+XTZ/USD,Tezos,XTZ
+XTZ/GBP,Tezos,XTZ
+XTZ/EUR,Tezos,XTZ
+XYO/USD,XYO,XYO
+YFI/USD,yearn.finance,YFI
+YFI/BTC,yearn.finance,YFI
+ZEC/BTC,Zcash,ZEC
+ZEC/USD,Zcash,ZEC
+ZEN/USD,Horizen,ZEN
+ZETA/USD,ZetaChain,ZETA
+ZRX/USD,0x Protocol,ZRX
